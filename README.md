@@ -1,6 +1,6 @@
 ## Synopsis
 
-Simple example of a custom AngularJS, Share This directive with links to Facebook, Twitter, LinkedIn, Email, Pinterest, and Google Plus
+Simple example of a custom "Share This" AngularJS directive.   Share links to Facebook, Twitter, LinkedIn, Email, Pinterest, and Google Plus
 
 ## Code Example
 

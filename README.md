@@ -3,8 +3,11 @@
 Simple example of a custom "Share This" AngularJS directive.   Share links to Facebook, Twitter, LinkedIn, Email, Pinterest, and Google Plus
 
 ## Code Example
+
+```
 <p>Some awesome text to share</p>
 <share-this></share-this>
+```
 
 ## Motivation
 

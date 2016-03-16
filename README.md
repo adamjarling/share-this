@@ -3,12 +3,12 @@
 Simple example of a custom "Share This" AngularJS directive.   Share links to Facebook, Twitter, LinkedIn, Email, Pinterest, and Google Plus
 
 ## Code Example
-
-See the code...
+<p>Some awesome text to share</p>
+<share-this></share-this>
 
 ## Motivation
 
-A short description of the motivation behind the creation and maintenance of the project. This should explain **why** the project exists.
+Avoid bulky "Share This" plugins.  Use this simple example as a foundation to build upon in your own app.
 
 ## Installation
 
@@ -16,4 +16,4 @@ Clone the project and run on some type of local or remote server to see in use. 
 
 ## Contributors
 
-Feel free to branch and add other social media 'Share This' configurations.
+Feel free to branch and add other social media 'Share This' configurations.  Or open links in pop-up windows.  Open to any and all ideas.
